@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Carbon Disclosure Network app!" />
+        <Header title="Carbon Disclosure Network app" />
         <p className="description">
-        <img>cdn_ads_664px.png</img>  
+        <img src="/cdn_ads_664px.png" alt="Carbon Disclosure Network advertisement" />  
         </p>
       </main>
 
