@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Carbon Disclosure Network app" />
         <p className="description">
-        <img src="next-netlify-starter/pages/cdn_ads_664px.png" alt="Carbon Disclosure Network advertisement" />  
+        <img src="public/cdn_ads_664px.png" alt="Carbon Disclosure Network advertisement" />  
         </p>
       </main>
 
