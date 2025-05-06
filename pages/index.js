@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Carbon Disclosure Network app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        <img>cdn_ads_664px.png</img>  
         </p>
       </main>
 
